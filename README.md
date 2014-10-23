@@ -4,7 +4,7 @@ This repository exists for the sole purpose of testing archival of git repositor
 
 ## How
 1. cd into the location you want to archive this repo to
-2. run the command ```git clone --mirror <repo-name>```
+2. run the command ```git clone --mirror <repo-endpoint>```
 3. Done
  
 ## Restore / Use Archive
